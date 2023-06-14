@@ -45,6 +45,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding the Rent Application, please contact us at rentapp@example.com.
+If you have any questions or suggestions regarding the Rent Application, please contact us at mukhabodya@gmail.com
 
 Happy Renting!
