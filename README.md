@@ -21,8 +21,8 @@ Welcome to the Rent Application! This application is designed to simplify the pr
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/rent-application.git`
-2. Navigate to the project directory: `cd rent-application`
+1. Clone the repository: `git clone https://github.com/BodyaGo/RentApp.git`
+2. Navigate to the project directory: `cd RentApp`
 3. Install dependencies: `npm install`
 4. Set up environment variables: Create a `.env` file based on the provided `.env.example` file and update the values accordingly.
 5. Start the application: `npm start`
